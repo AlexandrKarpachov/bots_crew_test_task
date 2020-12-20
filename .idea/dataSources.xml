@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="storage.db" uuid="0c0c55be-4ebe-4d5d-8b42-eb0c87257af9">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:db/storage.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="storage@localhost" uuid="7936e903-ecb0-4296-97e3-dd6b108d77db">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/storage</jdbc-url>
+    </data-source>
+  </component>
+</project>

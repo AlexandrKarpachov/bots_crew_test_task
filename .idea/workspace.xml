@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89782af8-c4b9-46ff-afbc-d1dabe7d8128" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lkSSf9tsBDMSFZz70IcgofDs2k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite&#10;postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bots_crew_test" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\spring-security\bots_crew_test\db" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Start_UI">
+    <configuration name="CommandsHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="university_departments.CommandsHandler" />
+      <module name="bots_crew_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="university_departments.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentRepository" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="university_departments.repositories.DepartmentRepository" />
+      <module name="bots_crew_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="university_departments.repositories.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LecturerRepository" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="university_departments.repositories.LecturerRepository" />
+      <module name="bots_crew_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="university_departments.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start_UI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="university_departments.Start_UI" />
+      <module name="bots_crew_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="university_departments.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start_UI" />
+        <item itemvalue="Application.CommandsHandler" />
+        <item itemvalue="Application.LecturerRepository" />
+        <item itemvalue="Application.DepartmentRepository" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89782af8-c4b9-46ff-afbc-d1dabe7d8128" name="Default Changelist" comment="" />
+      <created>1608139596940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608139596940</updated>
+      <workItem from="1608139600700" duration="640000" />
+      <workItem from="1608140886491" duration="626000" />
+      <workItem from="1608142718029" duration="1101000" />
+      <workItem from="1608144780630" duration="599000" />
+      <workItem from="1608150025619" duration="1598000" />
+      <workItem from="1608151832730" duration="1524000" />
+      <workItem from="1608154071012" duration="1206000" />
+      <workItem from="1608197945920" duration="1831000" />
+      <workItem from="1608200104425" duration="1719000" />
+      <workItem from="1608201910487" duration="1476000" />
+      <workItem from="1608203733223" duration="775000" />
+      <workItem from="1608205544226" duration="1287000" />
+      <workItem from="1608220960939" duration="1695000" />
+      <workItem from="1608224276931" duration="1788000" />
+      <workItem from="1608226088547" duration="1183000" />
+      <workItem from="1608228078053" duration="1782000" />
+      <workItem from="1608230322246" duration="1964000" />
+      <workItem from="1608241749833" duration="456000" />
+      <workItem from="1608284332719" duration="1256000" />
+      <workItem from="1608286349793" duration="680000" />
+      <workItem from="1608288767744" duration="1043000" />
+      <workItem from="1608290570397" duration="1301000" />
+      <workItem from="1608292387830" duration="2148000" />
+      <workItem from="1608298217937" duration="599000" />
+      <workItem from="1608300114500" duration="1488000" />
+      <workItem from="1608301914721" duration="1792000" />
+      <workItem from="1608303734055" duration="1785000" />
+      <workItem from="1608308792047" duration="1307000" />
+      <workItem from="1608310600351" duration="1783000" />
+      <workItem from="1608312407460" duration="1905000" />
+      <workItem from="1608314337945" duration="965000" />
+      <workItem from="1608318387741" duration="1781000" />
+      <workItem from="1608320195182" duration="1782000" />
+      <workItem from="1608322000477" duration="1297000" />
+      <workItem from="1608323944088" duration="1783000" />
+      <workItem from="1608325749766" duration="1786000" />
+      <workItem from="1608327558045" duration="1795000" />
+      <workItem from="1608329377534" duration="1678000" />
+      <workItem from="1608374119521" duration="1358000" />
+      <workItem from="1608375626894" duration="1680000" />
+      <workItem from="1608377792575" duration="1782000" />
+      <workItem from="1608379602744" duration="1785000" />
+      <workItem from="1608381410335" duration="889000" />
+      <workItem from="1608384898274" duration="1612000" />
+      <workItem from="1608386721260" duration="598000" />
+      <workItem from="1608388986158" duration="1550000" />
+      <workItem from="1608390796061" duration="1788000" />
+      <workItem from="1608392603101" duration="1277000" />
+      <workItem from="1608395633328" duration="1453000" />
+      <workItem from="1608397443414" duration="1784000" />
+      <workItem from="1608399254288" duration="1659000" />
+      <workItem from="1608403046859" duration="599000" />
+      <workItem from="1608405495675" duration="1788000" />
+      <workItem from="1608407309507" duration="431000" />
+      <workItem from="1608462561562" duration="751000" />
+      <workItem from="1608463337281" duration="332000" />
+      <workItem from="1608463708421" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1608224727759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1608224727759" />
+    <state x="401" y="375" key="#SQL_Resolution_Scopes" timestamp="1608329277047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="401" y="375" key="#SQL_Resolution_Scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1608329277047" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608329353132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608329353132" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1608395689521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608395689521" />
+    <state x="642" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1608198836640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608198836640" />
+    <state x="754" y="171" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608151428600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="171" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608151428600" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1608463959019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608463959019" />
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1608399761491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608399761491" />
+    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1608399761490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608399761490" />
+    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1608399761490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608399761490" />
+    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1608399761490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608399761490" />
+    <state width="1877" height="248" key="GridCell.Tab.1.bottom" timestamp="1608399761280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="248" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608399761280" />
+    <state width="1877" height="248" key="GridCell.Tab.1.center" timestamp="1608399761280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="248" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608399761280" />
+    <state width="1877" height="248" key="GridCell.Tab.1.left" timestamp="1608399761280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="248" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608399761280" />
+    <state width="1877" height="248" key="GridCell.Tab.1.right" timestamp="1608399761280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="248" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608399761280" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1608329398096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1608329398096" />
+    <state width="376" height="441" key="SqlResolveConfigurable" timestamp="1608329277024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="376" height="441" key="SqlResolveConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1608329277024" />
+    <state x="800" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1608328402364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608328402364" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608391340023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608391340023" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bots_crew_test$Start_UI.ic" NAME="Start_UI Coverage Results" MODIFIED="1608311520877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>university_departments.*</FILTER>
+    </SUITE>
+  </component>
+</project>
